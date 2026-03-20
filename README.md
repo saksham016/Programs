@@ -1,12 +1,5 @@
 # PROGRAMS
 
-<p align="center">
-
-  <a href = "https://github.com/sakshxm-16/Programs/workflows/codeql.yml">
-<img src = "https://github.com/sakshxm-16/Programs/actions/workflows/codeql.yml/badge.svg">
-  </a>
-
-</p>
 <p align = "center">
   <a href="https://github.com/sakshxm-16/Programs">
     <img src="https://img.shields.io/badge/C-blue">
