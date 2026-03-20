@@ -2,7 +2,7 @@
 
 <p align="center">
 
-  <a href = "github/workflows/codeql.yml">
+  <a href = "https://github.com/sakshxm-16/Programs/workflows/codeql.yml">
 <img src = "https://github.com/sakshxm-16/Programs/actions/workflows/codeql.yml/badge.svg">
   </a>
 
