@@ -28,7 +28,7 @@
 </p>
 
 **INDEX**
-* C Programs <pre>Data Structure & Practical File Programs.</pre>
+* C Programs <pre> Data Structure & Practical File Programs.</pre>
 * JavaScript Programs <pre> Practice Programs : Object Oriented Programming. </pre>
 * Python Programs <pre> Practice Programs & Python Projects.</pre>
 
